@@ -3,4 +3,5 @@ make 3422
 git reset -1
 git reabse master
 git rebase master confict-3
+git rebase master confict2
 
